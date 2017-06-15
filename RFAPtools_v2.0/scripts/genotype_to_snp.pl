@@ -1,6 +1,8 @@
 #!usr/bin/perl -w
 # This script is used to transform the output of nature_genotype_call.pl from the format of genotype to snp variations of each locus, and different variations on the same nucleotide position is delete;
-# Version 2.0
+# Author: Xun Chen
+# Version: 2.0
+# Date: 02/16/2014
 #
 #
 # Usage: perl genotype_to_snp.pl -i input_file -o output_file
