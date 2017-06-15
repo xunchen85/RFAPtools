@@ -1,4 +1,8 @@
 #!/usr/bin/perl -w
+#
+# Author: Xun Chen
+# Version: 2.0
+# Data: 04/16/17
 # Usage: perl nature_genotype_call.pl -i sample -o snp.out -e else.out -n 6 -l 0.2 -h 0.2 -a 20
 #
 # Options:
@@ -10,6 +14,7 @@
 # --loss_genotype	: The percentage of loss genotypes,default=1;
 # --hr_relative		: The percentage of relative-heterozygous genotypes,default=0.2;
 # --depth		: The minimum depth of coverage of each individual,default=2;
+
 use strict;
 use Getopt::Long;
 my $loci=undef;
