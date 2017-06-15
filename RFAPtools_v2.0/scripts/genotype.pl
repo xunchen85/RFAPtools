@@ -3,6 +3,7 @@
 #
 # Author: Xun Chen
 # Version: 1.0
+# Date: 02/16/2014
 #
 #
 # Usage: perl genotype.pl -i input_file -o output_file
