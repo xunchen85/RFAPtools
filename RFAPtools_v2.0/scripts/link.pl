@@ -2,7 +2,8 @@
 #this script is used to link the first strand and the reverse complementary sequence of the second strand of each PE read together to form one artificial sequence tag by filling the unsequenced middle part with 60 cytosines (C). 
 #
 # Author: Xun Chen
-# Version: 1.0
+# Version: 2.0
+# Date: 02/16/2014
 #
 #
 #usage: perl link.pl -read1 p1-F.fastq -read2 p1-R.fastq -t pair -c 2 -o p1_tags
