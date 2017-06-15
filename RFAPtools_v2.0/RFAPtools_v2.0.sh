@@ -9,6 +9,7 @@
 # Author: Xun Chen
 # Version: 2.0
 # Date: 02/16/2014
+# Email: xunchen85@gmail.com
 # 
 #
 #
