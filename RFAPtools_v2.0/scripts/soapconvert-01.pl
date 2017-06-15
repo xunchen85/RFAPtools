@@ -2,6 +2,7 @@
 # This script is used to extract and format the snp information from the output file;
 # Author: Xun Chen
 # Version: 1.0
+# Date: 04/16/17
 #
 #usage: perl soapconvert01.pl -i input_file -o output_file -l 70 -t pair
 #
