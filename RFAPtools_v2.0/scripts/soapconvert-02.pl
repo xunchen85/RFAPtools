@@ -3,7 +3,8 @@
 # The input_file is the output_file of soapconvert01.pl;
 #
 # Author: Xun Chen
-# Version: 1.0
+# Version: 2.0
+# Date: 04/16/17
 #
 #
 # Usage: perl soapconvert02.pl -i input_file -o output_file -l 70 -t pair
