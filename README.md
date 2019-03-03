@@ -79,3 +79,6 @@ n) The genotype of sample n;
 6) The genotype of sample 2;  
 …  
 7) The genotype of sample n;   
+
+## Citation
+Chen X, Li X, Zhang B, Xu J, Wu Z, Wang B, Li H, Younas M, Huang L, Luo Y et al.: Detection and genotyping of restrication fragment associated polymorphisms in polyploid crops with a pseudo-reference: a case study in allotetraploid Brassica napus. BMC Genomics. 2013 May;14: 346
