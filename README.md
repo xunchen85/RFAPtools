@@ -33,15 +33,15 @@ which you select to build prf like p1, default :2;
 default: 40;  
 (8) output : The name of allele_calling.pl output file, default: SNP.out;  
 (9) else : The file contained dump genotypes, default: else;  
-(10)minor_genotype : The minor genotype number of the locus should be higher than this
+(10) minor_genotype : The minor genotype number of the locus should be higher than this
 value, or this locus would be dumped, default: 8;  
-(11)loss_genotype : The loss genotype number of the locus should be less than this value, or
+(11) loss_genotype : The loss genotype number of the locus should be less than this value, or
 this locus would be dumped, default: 8;  
-(12)hr_relative : Relative heterozygous ratio which express as (heterozygous genotype/minor genotype), the value of each allelic SNP locus should be lower than it, or
+(12) hr_relative : Relative heterozygous ratio which express as (heterozygous genotype/minor genotype), the value of each allelic SNP locus should be lower than it, or
 this locus would be dumped, default: 0.2;  
-(13)allele_number : The number of candidate alleles belong to one candidate locus that more
+(13) allele_number : The number of candidate alleles belong to one candidate locus that more
 than that would be filtered, This parameter is only for natural population, default: 20;  
-(14)read_length : The length of read sequence, default: 70;  
+(14) read_length : The length of read sequence, default: 70;  
 
 #### 4) After that, you just need to type the command below, and you would get the SNP results:
 ````
